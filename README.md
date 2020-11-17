@@ -5,7 +5,13 @@ When I Have a New Mac
 ## 软件列表
 
 - Alfred
-- Chrome、Edge
+- Chrome
+  - Evernote Web Clipper
+  - Tampermokey
+  - Sourcegraph
+  - 沙拉查词
+- Edge
+  - 沙拉查词
 - Xmind Zen
 - 滴答清单
 - iShot : 截图
