@@ -10,6 +10,7 @@ When I Have a New Mac
   - Tampermokey
   - Sourcegraph
   - 沙拉查词
+  - SwitchyOmega（SOCKS代理软件不能为浏览器自动fq时使用的扩展）
 - Edge
   - 沙拉查词
 - Xmind Zen
