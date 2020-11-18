@@ -42,6 +42,8 @@ When I Have a New Mac
 - Sketch
 - WPS
 - Dr. Cleaner Pro
+- Oh my zsh
+  - plugins: git autojump docker kubectl extract 
 
 ## Alfred workflow
 
