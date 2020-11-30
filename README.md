@@ -48,6 +48,7 @@ When I Have a New Mac
 - [Oh my zsh](https://ohmyz.sh/)
   - plugins: git autojump docker kubectl extract 
   - [.zshrc](./zshrc)
+- [brew](https://brew.sh/)
 
 
 
