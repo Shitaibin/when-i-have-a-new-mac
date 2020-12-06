@@ -49,6 +49,7 @@ When I Have a New Mac
   - plugins: git autojump docker kubectl extract 
   - [.zshrc](./zshrc)
 - [brew](https://brew.sh/)
+- [Clipy](https://github.com/Clipy/Clipy/releases): 剪贴板软件
 
 
 
